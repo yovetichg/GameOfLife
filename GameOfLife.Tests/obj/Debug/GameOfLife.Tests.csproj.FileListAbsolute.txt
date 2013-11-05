@@ -1,0 +1,9 @@
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.pdb
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.exe
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\nunit.framework.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.pdb
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\nunit.framework.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\obj\Debug\GameOfLife.Tests.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\obj\Debug\GameOfLife.Tests.pdb

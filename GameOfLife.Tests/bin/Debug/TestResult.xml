@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-10-29" time="16:51:18">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.1008" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="c:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE" machine-name="YOVETICHG" user="George" user-domain="yovetichg" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\George\Documents\Visual Studio 2010\Projects\GameOfLife\GameOfLife.Tests\bin\Debug\GameOfLife.Tests.dll" executed="True" result="Success" success="True" time="0.086" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GameOfLife" executed="True" result="Success" success="True" time="0.082" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.082" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CellTests" executed="True" result="Success" success="True" time="0.070" asserts="0">
+                <results>
+                  <test-case name="GameOfLife.Tests.CellTests.A_dead_cell_with_exactly_three_living_neighbors_should_ressurect" executed="True" result="Success" success="True" time="0.051" asserts="5" />
+                  <test-case name="GameOfLife.Tests.CellTests.A_living_cell_with_exactly_three_living_neighbors_should_live_on" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+                  <test-case name="GameOfLife.Tests.CellTests.A_living_cell_with_fewer_than_two_living_neighbors_should_die" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="GameOfLife.Tests.CellTests.A_living_cell_with_more_than_three_living_neighbors_should_die" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="GridTests" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                <results>
+                  <test-case name="GameOfLife.Tests.GridTests.It_should_have_all_dead_cells_at_start" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-suite type="ParameterizedTest" name="It_should_have_the_correct_number_of_rows_and_columns" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="GameOfLife.Tests.GridTests.It_should_have_the_correct_number_of_rows_and_columns(1,7)" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                      <test-case name="GameOfLife.Tests.GridTests.It_should_have_the_correct_number_of_rows_and_columns(4,4)" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-case name="GameOfLife.Tests.GridTests.It_should_ressurect_a_cell" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
